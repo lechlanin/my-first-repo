@@ -1,6 +1,6 @@
-#veliki heding
+# veliki heding
 
-##mali heding
+## mali heding
 
 isprobavanje **specijalnih** *efekata*
 - cisto
@@ -11,8 +11,8 @@ isprobavanje **specijalnih** *efekata*
 2. drugi red
 
 
-...
+'''
 ovo je
 kao neki
 blok
-...
+'''
