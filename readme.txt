@@ -1,3 +1,1 @@
-Dobro dosli
-Novi red
-dodajemo nov red
+Nov readme fajl
